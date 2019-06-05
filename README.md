@@ -18,3 +18,7 @@ GitHub可视化工具：GitHubDesktopSetup.exe
 前端环境安装：nodejs、angular cli 、ionic 
 技术：typescript  ionic3
 ```
+
+```
+使用SSH key
+```
