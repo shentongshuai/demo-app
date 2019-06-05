@@ -20,5 +20,5 @@ GitHub可视化工具：GitHubDesktopSetup.exe
 ```
 
 ```
-使用SSH key
+使用SSH key 修改
 ```
